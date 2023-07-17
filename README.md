@@ -2,6 +2,7 @@
 
 ### Summary
 This study provides common methods used to recommend items to potential users.
+It is triggered by the udacity "data-scientist-nanodegree" program (see https://www.udacity.com/).
 In particular, the following recommendation topics are exemplary
 applied to data from IBM covering user and article relations:
 - rank-based recommendations
