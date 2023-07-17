@@ -1,9 +1,20 @@
 # user specific article recommendations study
 
 ### Summary
-
+This study provides common methods used to recommend articles to potential readers.
+In particular, the following recommendation topics are exemplary
+applied to data from IBM covering user and article relations:
+- rank-based recommendations
+- user-user based collaborative filtering
+- matrix factorization technique
+ 
 
 ### Motivation
+Given a huge list of pairs of users and articles they have read, briefly viewed or clicked, how can we deduce recommendations
+to users in the pool or even new ones?
+This study starts from explorating an exemplary data by IBM and shows different recommendation techniques.
+It is an exemplary study for similar problems where the items are not articles but food, movies, or ...
+
 
 ### Data sources: 
 
