@@ -39,6 +39,7 @@ It is an exemplary study for similar problems where the items are not articles b
 ### Files in the repository
 ```
 Recommendations_with_IBM.ipynb         # main jupyter file
+Recommendations_with_IBM.html         # main jupyter file as html file
 README.md
 requirements.txt                       # list of required packages
 requirements_working_configuration.txt # packages covering a working configuration
