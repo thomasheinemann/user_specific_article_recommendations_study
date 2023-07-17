@@ -38,9 +38,17 @@ It is an exemplary study for similar problems where the items are not articles b
 
 ### Files in the repository
 ```
-Recommendations_with_IBM.ipynb # main jupyter file
+Recommendations_with_IBM.ipynb         # main jupyter file
 README.md
 requirements.txt                       # list of required packages
 requirements_working_configuration.txt # packages covering a working configuration
+data
+|- articles_community.csv              # data comprising content for each article ID
+|- user-item-interactions.csv          # data covering the dataframe of user-article pairs
+project_tests.py                       # file used in tests in main jupyter file
+top_5.p                                # data used to verify results
+top_10.p                               # data used to verify results
+top_20.p                               # data used to verify results
+user_item_matrix.p                     # data used to verify results
 
 ```
