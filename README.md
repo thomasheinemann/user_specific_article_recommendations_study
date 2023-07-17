@@ -1,7 +1,7 @@
 # user specific article recommendations study
 
 ### Summary
-This study provides common methods used to recommend articles to potential readers.
+This study provides common methods used to recommend items to potential users.
 In particular, the following recommendation topics are exemplary
 applied to data from IBM covering user and article relations:
 - rank-based recommendations
@@ -10,9 +10,9 @@ applied to data from IBM covering user and article relations:
  
 
 ### Motivation
-Given a huge list of pairs of users and articles they have read, briefly viewed or clicked, how can we deduce recommendations
+Given a huge list of user-article pairs with articles being read, briefly viewed, or clicked by the corresponding user, how can we deduce recommendations
 to users in the pool or even new ones?
-This study starts from explorating an exemplary data by IBM and shows different recommendation techniques.
+This study starts by exploring data from IBM and presents different recommendation techniques.
 It is an exemplary study for similar problems where the items are not articles but food, movies, or ...
 
 
